@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SelectableImageView">
+        <attr format="reference" name="siv_srcPressed"/>
+        <attr format="reference" name="siv_srcSelected"/>
+        <attr format="reference" name="siv_srcDisable"/>
+    </declare-styleable>
+
+</resources>
